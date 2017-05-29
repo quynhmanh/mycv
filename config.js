@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"","author":"Windows User","fileName":"ManhQuynh.pdf","bounds":[[935,1210]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
